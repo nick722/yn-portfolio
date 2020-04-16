@@ -1,7 +1,6 @@
 .main {
+  padding: 0 2.5em;
+  box-sizing: border-box;
   width: calc(100% - 300px);
   float: right;
-  -webkit-transition: 0.5s;
-  -o-transition: 0.5s;
-  transition: 0.5s;
 }

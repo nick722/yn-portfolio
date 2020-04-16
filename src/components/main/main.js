@@ -1,13 +1,13 @@
-import React, { Component } from 'react'
+import React, { Component } from "react";
 
-import "./main.scss"
+import "./main.scss";
 
 export default class Main extends Component {
   render() {
     return (
-        <section className="main">
-          <h1>Hi! <br />I'm Nikolai</h1>
-        </section>
-    )
+      <section className="main">
+        <h1>Hi! I'm Nikolai</h1>
+      </section>
+    );
   }
 }
